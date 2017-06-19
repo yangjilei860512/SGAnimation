@@ -7,7 +7,7 @@
 //
 
 #import "HorseRaceLampVC.h"
-#import "SGHorseRaceLampView.h"
+#import "SGAnimation.h"
 
 @interface HorseRaceLampVC ()
 

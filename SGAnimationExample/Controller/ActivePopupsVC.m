@@ -7,7 +7,7 @@
 //
 
 #import "ActivePopupsVC.h"
-#import "SGActivePopupsView.h"
+#import "SGAnimation.h"
 
 @interface ActivePopupsVC ()
 

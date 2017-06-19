@@ -66,6 +66,7 @@
 		188D38381EF77D5300EF2B1D /* SGActivePopupsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGActivePopupsView.m; sourceTree = "<group>"; };
 		188D38391EF77D5300EF2B1D /* SGHorseRaceLampView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGHorseRaceLampView.h; sourceTree = "<group>"; };
 		188D383A1EF77D5300EF2B1D /* SGHorseRaceLampView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGHorseRaceLampView.m; sourceTree = "<group>"; };
+		188D383E1EF781A300EF2B1D /* SGAnimation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SGAnimation.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,12 +172,13 @@
 		188D38341EF77D5300EF2B1D /* SGAnimation */ = {
 			isa = PBXGroup;
 			children = (
-				188D38351EF77D5300EF2B1D /* CALayer+SGAnimation.h */,
-				188D38361EF77D5300EF2B1D /* CALayer+SGAnimation.m */,
+				188D383E1EF781A300EF2B1D /* SGAnimation.h */,
 				188D38371EF77D5300EF2B1D /* SGActivePopupsView.h */,
 				188D38381EF77D5300EF2B1D /* SGActivePopupsView.m */,
 				188D38391EF77D5300EF2B1D /* SGHorseRaceLampView.h */,
 				188D383A1EF77D5300EF2B1D /* SGHorseRaceLampView.m */,
+				188D38351EF77D5300EF2B1D /* CALayer+SGAnimation.h */,
+				188D38361EF77D5300EF2B1D /* CALayer+SGAnimation.m */,
 			);
 			path = SGAnimation;
 			sourceTree = "<group>";
